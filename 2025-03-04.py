@@ -1,4 +1,4 @@
-# 
+# I learned that you can use the print command in different color like red or green.
 
 print("Welcome to your Adventure Story Simulator.")
 print ()
